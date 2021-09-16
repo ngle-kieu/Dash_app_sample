@@ -60,4 +60,4 @@ def update_output_dropdown(submit_n_clicks):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8052)
+    app.run_server(debug=True)
